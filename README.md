@@ -1,2 +1,1 @@
-# Opencv
-Şekil tanıma
+
